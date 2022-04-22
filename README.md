@@ -13,16 +13,16 @@ Handwritten digit recognition is a technique for automatically recognizing and d
 
 **Dataset -**
 
-![image](https://user-images.githubusercontent.com/48239104/162789848-b2620d70-916c-4696-a5cc-04a08a6a2068.png)
+![fig2](https://user-images.githubusercontent.com/48239104/164612849-66861364-827b-46b9-a7b6-ca8ae92d6d6e.png)
 
 **Preprocessing -**
 
-![image](https://user-images.githubusercontent.com/48239104/162790070-f748c130-b821-4d81-bdc1-3fcd04531aec.png)
+![fig3](https://user-images.githubusercontent.com/48239104/164612971-0dfdd017-44d6-4ab1-9620-523858cf863a.png)
 
 **Model Summary -**
 
-![image](https://user-images.githubusercontent.com/48239104/162790198-538e836b-f723-41df-8308-9814b0c40dbc.png)
+![fig4](https://user-images.githubusercontent.com/48239104/164613009-fb7079a8-f974-4e0b-9158-70506baca17f.png)
 
 **Confusion Matrix -**
 
-![image](https://user-images.githubusercontent.com/48239104/162790323-45ba72ed-911d-40ae-8dc1-71dfce1d4a78.png)
+![fig6](https://user-images.githubusercontent.com/48239104/164613057-6a9a525f-3a0d-4d05-af94-0734bc765a10.png)
