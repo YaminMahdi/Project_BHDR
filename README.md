@@ -7,7 +7,7 @@ Handwritten digit recognition is a technique for automatically recognizing and d
 
 # Drive Path:
 
-> * "/Project/Project_BHDR"
+> "/Project/Project_BHDR"
 
 # Screenshot:
 
