@@ -1,0 +1,18 @@
+git code links..
+
+https://github.com/abkafi123/Datamining_MachineLearning_Class
+
+https://github.com/BharadwajYellapragada/Effective-Handwritten-Digit-Recognition-using-Deep-Convolution-Neural-Network/blob/master/Handwritten_Digit_Recognition_with_Deep_Learning.ipynb
+
+https://github.com/shahariarrabby/Bangla_Digit_Recognition_CNN
+
+https://github.com/SaadatChowdhury/BHaND
+
+
+
+
+https://­www.kaggle.com/c/­digit-recognizer/code
+
+https://www.kaggle.com/choupeiyuan/minist-simple-tensorflow-98/
+
+https://www.kaggle.com/shawon10/bangla-handwritten-digit-recognizer/notebook
